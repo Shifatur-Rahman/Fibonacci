@@ -1,6 +1,6 @@
 
 let t1=0,t2=1,t3=0, upperLimit;
-upperLimit = prompt('Enter your upper limit');
+upperLimit = parseInt(prompt('Enter your upper limit'));
 console.log();
 
 while(t3<upperLimit){
